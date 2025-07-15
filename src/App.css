@@ -1,0 +1,26 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Dancing+Script:wght@400..700&display=swap');
+
+body{
+   font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400 at 32px;
+  font-style: normal;
+}
+.gradient-text {
+  background: linear-gradient(267deg, #f17dc8 0.36%, #cc1eccd7 106.06%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+.gradient-text-hover:hover {
+  background: linear-gradient(267deg, #DA7C25 0.36%, #B923E1 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.custom-button:hover {
+  background: linear-gradient(267deg, #B923E1 0.36%, #DA7C25 100%);
+
+}

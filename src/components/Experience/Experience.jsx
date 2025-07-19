@@ -6,7 +6,7 @@ const Experience = () => {
   return (
     <section id="experience">
       <div className="bg-black py-10 px-6 md:px-20 lg:px-32 mt-20">
-        <h2 className="text-white text-3xl font-bold mb-6 text-center">
+        <h2 className="text-white text-3xl font-bold mb-4 text-center">
           Experience
         </h2>
         <div className="w-24 h-1 bg-[#cc1eccd7] mx-auto mb-5"></div>

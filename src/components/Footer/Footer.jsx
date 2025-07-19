@@ -1,5 +1,11 @@
 import React from "react";
-import { FaTwitter, FaLinkedin, FaInstagram, FaYoutube } from "react-icons/fa";
+import {
+  FaTwitter,
+  FaLinkedin,
+  FaInstagram,
+  FaYoutube,
+  FaGithub,
+} from "react-icons/fa";
 
 const Footer = () => {
   const handleScroll = (sectionId) => {
@@ -44,7 +50,10 @@ const Footer = () => {
               link: "https://www.linkedin.com/in/vaishnavi-pawar-4b6b4a257",
             },
 
-            { icon: <FaTwitter />, link: "" },
+            {
+              icon: <FaGithub size={24} />,
+              link: "https://github.com/vaishnavipawar1331/MyPortfolio",
+            },
 
             {
               icon: <FaYoutube />,

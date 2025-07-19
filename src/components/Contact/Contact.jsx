@@ -54,7 +54,7 @@ const Contact = () => {
       <ToastContainer />
 
       <div className="text-center mb-16">
-        <h2 className="text-3xl font-bold  text-white">CONTACT</h2>
+        <h2 className="text-3xl font-bold  text-white">Contact</h2>
         <div className="w-32 h-1 bg-[#cc1eccd7] mx-auto mt-4"></div>
         <p className="text-gray-400 mt-4 text-lg font-semibold">
           I’d love to hear from you—reach out for any opportunities or
@@ -62,7 +62,7 @@ const Contact = () => {
         </p>
       </div>
 
-      <div className="mt-8 w-full max-w-2xl bg-[#0d081f] p-6 rounded-lg shadow-lg border border-gray-700">
+      <div className=" w-full max-w-2xl bg-[#0d081f] p-6 rounded-lg shadow-lg border border-gray-700">
         <h3 className="text-xl font-semibold text-white text-center">
           Connect With Me <span className="ml-1">🚀</span>
         </h3>

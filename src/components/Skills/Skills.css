@@ -1,0 +1,19 @@
+/* .skills-card{
+  border-radius: 0.65rem;
+  border:1.5px solid #cc1eccd7;
+  padding:2.5rem;
+  text-align: center;
+  background: rgba(22,17,47,0.390);
+  backdrop-filter: blur(1rem);
+  position: relative;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+.skills-card:hover,
+.skills-card.active{
+  background: linear-gradient(180deg,#cc1eccd7 84,#cc1eccd7 100);
+} */
+
+.skills-container {
+  margin: 2rem;
+}
